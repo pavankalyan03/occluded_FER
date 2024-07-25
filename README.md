@@ -19,12 +19,12 @@ Our dataset consists of:
 
 We developed a custom model architecture based on CNN.
 
-- **Attention Mechanism:** [Explain how the model focuses on relevant facial regions.]
-- **Data Augmentation:**  [Describe any augmentation techniques used to simulate occlusions during training.]
-- **Loss Function:**  [Mention any specific loss function adjustments for robustness.]
+- **Attention Mechanism:** 
+- **Data Augmentation:** 
+- **Loss Function:** 
 
 ## 🚀 Getting Started
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)pavankalyan03/Occluded-Facial-Expression-Recognition.git
+   git clone https://github.com/pavankalyan03/occluded_FER.git
